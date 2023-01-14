@@ -1,4 +1,3 @@
-
 ### Olá, esse é meu perfil no GitHub!
 Meu nome é Guilherme e eu sou um estudante de Computação interessado por programação, com destaque nas áreas da Matemática Computacional e Computação Científica, mas também Desenvolvimento de Software e Web.
 
